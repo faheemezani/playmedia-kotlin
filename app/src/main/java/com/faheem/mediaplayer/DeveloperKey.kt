@@ -4,6 +4,6 @@ package com.faheem.mediaplayer
  */
 object DeveloperKey {
 
-    val DEVELOPER_KEY: String? = "AIzaSyC6p6vyMevAVR5A2uvVHqdkjdDshF07kcM"
+    val DEVELOPER_KEY: String? = "" // put your key here
 
 }
